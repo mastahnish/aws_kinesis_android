@@ -13,7 +13,7 @@ import java.util.concurrent.CountDownLatch;
 
 public class KinesisVideoDemoApp extends Application {
     public static final String TAG = KinesisVideoDemoApp.class.getSimpleName();
-    public static Regions KINESIS_VIDEO_REGION = Regions.US_WEST_2;
+    public static Regions KINESIS_VIDEO_REGION = Regions.EU_WEST_1;
 
     public static AWSCredentialsProvider getCredentialsProvider() {
         return AWSMobileClient.getInstance();

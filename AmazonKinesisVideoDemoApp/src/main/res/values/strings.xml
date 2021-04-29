@@ -68,4 +68,7 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+    <string name="show_me_your_face">Show me your face</string>
+    <string name="please_smile">I see you, please smile</string>
+    <string name="congrats_label">Great! You can now finish the stream</string>
 </resources>
